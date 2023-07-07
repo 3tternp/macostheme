@@ -3,7 +3,7 @@ sudo mkdir ~/.themes
 sudo mkdir ~/.icons 
 cd ~/.themes
 sudo git clone https://github.com/B00merang-Project/macOS
-sudo https://github.com/B00merang-Project/macOS-Catalina-Dark
+sudo git clone https://github.com/B00merang-Project/macOS-Catalina-Dark
 cd ..
 cd .icons
 
